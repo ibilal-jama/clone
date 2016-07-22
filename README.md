@@ -13,6 +13,6 @@ On-premises customers of Jama: Follow the instructions in the user guide to inst
 Hosted customers of Jama: You will need to submit a support ticket to request we upload one of these offered reports as-is for you. Just submit a ticket indicating which report you would like to use and the URL of your instance. Note that a request to customize one of these templates would be considered a Services engagement. 
 
 ###Interested in having someone guide you through this process?
-If you are interested in having a consultant tailor a report for you, build one from scratch or train you on how to write your own, please reach out to your Jama Account Manager to scope out a project. You can also access report templates that other customers have created. Hosted customers can upload any Word templates shared there to jamacloud, while on-premises customers can use any file they see fit on their instance. 
+If you are interested in having a consultant tailor a report for you, build one from scratch or train you on how to write your own, please reach out to your Jama Account Manager to scope out a project. You can also access report templates that other customers have created on our [Support Community](https://community.jamasoftware.com/jama/topics/report-templates-and-other-files-made-by-community-members-for-community-members). Hosted customers can upload any Word templates shared there to jamacloud, while on-premises customers can use any file they see fit on their instance. 
 
 
