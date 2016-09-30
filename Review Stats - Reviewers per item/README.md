@@ -10,7 +10,10 @@
 5. Click Save
 ![alt tag](https://github.com/JamaSoftware/Community-Reports/blob/master/Review%20Stats%20-%20Reviewers%20per%20item/config.png)
 
-NOTE: Your Organization field will have a different value.  Feel free the rename the Report also.
+NOTES: 
+-Your Organization field will have a different value.  
+-Rename the report to anyting you like
+-Enable any report format that you'd like to use
 
 ##Running the Report
 6. Go to the Project section of Jama
