@@ -6,12 +6,11 @@
 1. Go to the Admin section of Jama
 2. Click the Reports tab
 3. Click Add Report
-4. Fill in the Add/Edit Report form as shown below:
+4. Fill in the Add/Edit Report form as shown below.
+5. Click Save
 ![alt tag](https://github.com/JamaSoftware/Community-Reports/blob/master/Review%20Stats%20-%20Reviewers%20per%20item/config.png)
 
 NOTE: Your Organization field will have a different value.  Feel free the rename the Report also.
-
-5. Click Save
 
 ##Running the Report
 6. Go to the Project section of Jama
